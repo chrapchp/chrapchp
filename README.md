@@ -28,7 +28,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) TensorFlow Developer Certificate
 
 
-
+## Dabble Blog
+https://blog.cogitomethods.com/
 <!---
 chrapchp/chrapchp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
