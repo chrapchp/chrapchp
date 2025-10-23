@@ -1,4 +1,4 @@
-##  hello, bonjour, ola, sà-wàt-dii, ni hao :raised_hand_with_fingers_splayed:
+##  hello, bonjour, dzień dobry, ola, sà-wàt-dii, ni hao,  :raised_hand_with_fingers_splayed:
 ### I'm a project/software manager and control system engineer
 
 ## Currently
